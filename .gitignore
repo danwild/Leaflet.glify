@@ -7,5 +7,6 @@ yarn.lock
 .cache
 .dev-server
 .build
-dist
+dist/*
+!dist/glify-browser.js
 __coverage__
